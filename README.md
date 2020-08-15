@@ -226,3 +226,4 @@ switch between them.
 
 Thanks to @niklasf for providing the awesome 
 [python-chess](https://github.com/niklasf/python-chess) package.
+# RL-Chess
